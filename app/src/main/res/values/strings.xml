@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ConstraintLayout-Learn</string>
+    <string name="hello">hello</string>
+    <string name="eight_min_ago">8分钟前</string>
 </resources>
