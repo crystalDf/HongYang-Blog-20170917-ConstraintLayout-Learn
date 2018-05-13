@@ -3,4 +3,7 @@
     <string name="hello">hello</string>
     <string name="eight_min_ago">8分钟前</string>
     <string name="banner">Banner</string>
+    <string name="tab1">Tab1</string>
+    <string name="tab2">Tab2</string>
+    <string name="tab3">Tab3</string>
 </resources>
